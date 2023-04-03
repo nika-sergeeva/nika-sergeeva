@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p>
 
-<img alt=”JavaScript” src=”https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
+<img alt=”JavaScript” src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
 
 <img alt=”React” src=”https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
 
