@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nika-sergeeva&theme=tokyonight&layout=compact&count_private=true)](https://github.com/nika-sergeeva/github-readme-stats)
 
-## Skills and Experience:
+## Skills and Technologies:
 
 <p>
 
