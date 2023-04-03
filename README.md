@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Veronika.
 
-
+I'm a frontend developer. I mostly work with React.js, create landing pages, and single page applications.
 
 <!--
 **nika-sergeeva/nika-sergeeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
