@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 <p>
   
-  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,tailwind,redux,git)](https://skills.thijs.gg)
+  [![My Skills](https://skills.thijs.gg/icons?i=js,typescript,html,css,react,tailwind,redux,git)](https://skills.thijs.gg)
 
 </p>
